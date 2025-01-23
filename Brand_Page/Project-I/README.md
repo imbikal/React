@@ -1,2 +1,2 @@
 
-Download and Install node modules :- npm install
+Install node modules :- npm install
